@@ -1,28 +1,28 @@
 {
-    "name": "insomna-plugin-holibob-auth",
-    "version": "1.0.3",
-    "author": "Graeme Bryce <graeme@holibob.tech> (https://www.holibob.tech)",
-    "description": "HMAC Based Authentication for the Holibob API",
-    "license": "MIT",
-    "keywords": [
-        "holibob"
-    ],
-    "homepage": "https://hub.holibob.tech",
-    "main": "plugin.js",
-    "insomnia": {
-        "name": "holibib-auth",
-        "description": "HMAC Based Authentication for Holibob API"
-    },
-    "dependencies": {
-        "crypto-js": "3.1.9-1",
-        "js-base64": "^2.5.0"
-    },
-    "devDependencies": {},
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/HolibobInsomniaAuth"
-    }
+  "name": "insomna-plugin-holibob-auth",
+  "version": "1.0.3",
+  "author": "Graeme Bryce <graeme@holibob.tech> (https://www.holibob.tech)",
+  "description": "HMAC Based Authentication for the Holibob API",
+  "license": "MIT",
+  "keywords": [
+    "holibob"
+  ],
+  "homepage": "https://hub.holibob.tech",
+  "main": "plugin.js",
+  "insomnia": {
+    "name": "holibib-auth",
+    "description": "HMAC Based Authentication for Holibob API"
+  },
+  "dependencies": {
+    "crypto-js": "3.1.9-1",
+    "js-base64": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GraemeAllanBryce/insomnia-plugin-holibob-auth.git"
+  }
 }
