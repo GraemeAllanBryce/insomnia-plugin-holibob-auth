@@ -1,6 +1,6 @@
 {
   "name": "insomna-plugin-holibob-auth",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Graeme Bryce <graeme@holibob.tech> (https://www.holibob.tech)",
   "description": "HMAC Based Authentication for the Holibob API",
   "license": "MIT",
